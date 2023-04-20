@@ -1,2 +1,4 @@
 .terraform
 credentials.json
+vars.tfvars
+*.tfvars
